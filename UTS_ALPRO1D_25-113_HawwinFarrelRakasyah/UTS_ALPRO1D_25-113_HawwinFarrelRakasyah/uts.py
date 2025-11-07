@@ -1,15 +1,9 @@
-#Rental Motor Aconk
-motor_matic = 50000
-motor_trail = 100000
-motor_sport = 75000
-asuransi = 15000
-totalharga=0
+n= 5
+for i in range (1, n+1):
 
-jenismotor =(input("Pilih jenis motor :"))
-lamasewa = int(input("Masukkan lama sewa :"))
-if lamasewa >3
-    totalharga =jenismotor + asuransi
-elif totalharga > 150000
-    totalharga - 0.10
-input ("Apakah anda memiliki kupon?")
+    for j in range (n - i):
+        print (' ', end=' ')
 
+    for k in range (1, i+1):
+        print (k, end=' ')
+    print()
