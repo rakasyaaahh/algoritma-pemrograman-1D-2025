@@ -38,7 +38,7 @@ while True:
             gaji_pokok = int(input("Masukkan gaji pokok: "))
             if gaji_pokok < 0:
                 print ("gaji tidak boleh minus")
-                continue  
+
         except ValueError:
             print("Gaji pokok harus angka yaa!")
         break

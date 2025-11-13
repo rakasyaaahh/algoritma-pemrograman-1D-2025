@@ -1,4 +1,3 @@
-#Soal No 2
 panjang = int(input("Masukkan panjang balok: "))
 lebar = int(input("Masukkan lebar balok: "))
 tinggi = int(input("Masukkan tinggi balok: "))

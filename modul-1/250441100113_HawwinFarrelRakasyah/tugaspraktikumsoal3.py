@@ -1,4 +1,3 @@
-#Soal Nomor 3
 import math
 n = int(input("Masukkan jumlah total bola: "))
 r = int(input("Masukkan jumlah bola yang diambil: "))
